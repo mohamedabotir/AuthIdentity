@@ -7,7 +7,7 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
-COPY ["AuthIdentity/AuthIdentity.csproj", "AuthIdentity/"]
+COPY ["/AuthIdentity.csproj", "AuthIdentity/"]
 RUN dotnet restore "AuthIdentity/AuthIdentity.csproj"
 COPY . .
 WORKDIR "/src/AuthIdentity"
