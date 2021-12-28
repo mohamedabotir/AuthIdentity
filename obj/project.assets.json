@@ -7754,11 +7754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moham\\OneDrive\\Desktop\\authenticationAndAuthorizationCore\\AuthIdentity\\AuthIdentity\\AuthIdentity.csproj",
+      "projectUniqueName": "C:\\Users\\moham\\OneDrive\\Desktop\\authenticationAndAuthorizationCore\\AuthIdentity\\AuthIdentity\\AuthIdentity\\AuthIdentity\\AuthIdentity.csproj",
       "projectName": "AuthIdentity",
-      "projectPath": "C:\\Users\\moham\\OneDrive\\Desktop\\authenticationAndAuthorizationCore\\AuthIdentity\\AuthIdentity\\AuthIdentity.csproj",
+      "projectPath": "C:\\Users\\moham\\OneDrive\\Desktop\\authenticationAndAuthorizationCore\\AuthIdentity\\AuthIdentity\\AuthIdentity\\AuthIdentity\\AuthIdentity.csproj",
       "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moham\\OneDrive\\Desktop\\authenticationAndAuthorizationCore\\AuthIdentity\\AuthIdentity\\obj\\",
+      "outputPath": "C:\\Users\\moham\\OneDrive\\Desktop\\authenticationAndAuthorizationCore\\AuthIdentity\\AuthIdentity\\AuthIdentity\\AuthIdentity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moham\\AppData\\Roaming\\NuGet\\NuGet.Config",

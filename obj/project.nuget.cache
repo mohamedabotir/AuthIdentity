@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TGamxu2xmWK62wQZmU/p6ZE20mzzrLTTST7WfGziAE2TDNKYThGzrgMBuIO9u6+hLmtHe4UtYC/EiOsB1bX2Xw==",
+  "dgSpecHash": "jOXZdmpFQTmbHJhtIqokkpegSVC0HDxQGHP8tBP/riHb90cQ82hCoglhob1o1+V2Hfqryk/+HfneH3XrN/SvrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\moham\\OneDrive\\Desktop\\authenticationAndAuthorizationCore\\AuthIdentity\\AuthIdentity\\AuthIdentity.csproj",
+  "projectFilePath": "C:\\Users\\moham\\OneDrive\\Desktop\\authenticationAndAuthorizationCore\\AuthIdentity\\AuthIdentity\\AuthIdentity\\AuthIdentity\\AuthIdentity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\moham\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\moham\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
