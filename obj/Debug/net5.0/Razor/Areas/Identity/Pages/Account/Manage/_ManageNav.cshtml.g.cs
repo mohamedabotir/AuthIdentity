@@ -114,7 +114,7 @@ using AuthIdentity.Areas.Identity.Pages.Account.Manage;
             BeginAddHtmlAttributeValues(__tagHelperExecutionContext, "class", 2, global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
             AddHtmlAttributeValue("", 231, "nav-link", 231, 8, true);
 #nullable restore
-#line 6 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml"
+#line (6,44)-(6,87) 32 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml"
 AddHtmlAttributeValue(" ", 239, ManageNavPages.IndexNavClass(ViewContext), 240, 42, false);
 
 #line default
@@ -132,7 +132,7 @@ AddHtmlAttributeValue(" ", 239, ManageNavPages.IndexNavClass(ViewContext), 240, 
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("</li>\r\n    <li class=\"nav-item\">");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf825cef774a440a76bc41b3b891df42dee61d2211294", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf825cef774a440a76bc41b3b891df42dee61d2211309", async() => {
                 WriteLiteral("Email");
             }
             );
@@ -141,7 +141,7 @@ AddHtmlAttributeValue(" ", 239, ManageNavPages.IndexNavClass(ViewContext), 240, 
             BeginAddHtmlAttributeValues(__tagHelperExecutionContext, "class", 2, global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
             AddHtmlAttributeValue("", 369, "nav-link", 369, 8, true);
 #nullable restore
-#line 7 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml"
+#line (7,44)-(7,87) 32 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml"
 AddHtmlAttributeValue(" ", 377, ManageNavPages.EmailNavClass(ViewContext), 378, 42, false);
 
 #line default
@@ -159,7 +159,7 @@ AddHtmlAttributeValue(" ", 377, ManageNavPages.EmailNavClass(ViewContext), 378, 
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("</li>\r\n    <li class=\"nav-item\">");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf825cef774a440a76bc41b3b891df42dee61d2213215", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf825cef774a440a76bc41b3b891df42dee61d2213245", async() => {
                 WriteLiteral("Password");
             }
             );
@@ -168,7 +168,7 @@ AddHtmlAttributeValue(" ", 377, ManageNavPages.EmailNavClass(ViewContext), 378, 
             BeginAddHtmlAttributeValues(__tagHelperExecutionContext, "class", 2, global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
             AddHtmlAttributeValue("", 503, "nav-link", 503, 8, true);
 #nullable restore
-#line 8 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml"
+#line (8,44)-(8,96) 32 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml"
 AddHtmlAttributeValue(" ", 511, ManageNavPages.ChangePasswordNavClass(ViewContext), 512, 51, false);
 
 #line default
@@ -195,7 +195,7 @@ AddHtmlAttributeValue(" ", 511, ManageNavPages.ChangePasswordNavClass(ViewContex
 #line hidden
 #nullable disable
             WriteLiteral("        <li id=\"external-logins\" class=\"nav-item\">");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf825cef774a440a76bc41b3b891df42dee61d2215495", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf825cef774a440a76bc41b3b891df42dee61d2215540", async() => {
                 WriteLiteral("External logins");
             }
             );
@@ -205,7 +205,7 @@ AddHtmlAttributeValue(" ", 511, ManageNavPages.ChangePasswordNavClass(ViewContex
             BeginAddHtmlAttributeValues(__tagHelperExecutionContext, "class", 2, global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
             AddHtmlAttributeValue("", 749, "nav-link", 749, 8, true);
 #nullable restore
-#line 11 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml"
+#line (11,89)-(11,141) 32 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml"
 AddHtmlAttributeValue(" ", 757, ManageNavPages.ExternalLoginsNavClass(ViewContext), 758, 51, false);
 
 #line default
@@ -230,7 +230,7 @@ AddHtmlAttributeValue(" ", 757, ManageNavPages.ExternalLoginsNavClass(ViewContex
 #line hidden
 #nullable disable
             WriteLiteral("    <li class=\"nav-item\">");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf825cef774a440a76bc41b3b891df42dee61d2217728", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf825cef774a440a76bc41b3b891df42dee61d2217790", async() => {
                 WriteLiteral("Two-factor authentication");
             }
             );
@@ -239,7 +239,7 @@ AddHtmlAttributeValue(" ", 757, ManageNavPages.ExternalLoginsNavClass(ViewContex
             BeginAddHtmlAttributeValues(__tagHelperExecutionContext, "class", 2, global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
             AddHtmlAttributeValue("", 907, "nav-link", 907, 8, true);
 #nullable restore
-#line 13 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml"
+#line (13,44)-(13,105) 32 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml"
 AddHtmlAttributeValue(" ", 915, ManageNavPages.TwoFactorAuthenticationNavClass(ViewContext), 916, 60, false);
 
 #line default
@@ -257,7 +257,7 @@ AddHtmlAttributeValue(" ", 915, ManageNavPages.TwoFactorAuthenticationNavClass(V
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("</li>\r\n    <li class=\"nav-item\">");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf825cef774a440a76bc41b3b891df42dee61d2219688", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf825cef774a440a76bc41b3b891df42dee61d2219767", async() => {
                 WriteLiteral("Personal data");
             }
             );
@@ -266,7 +266,7 @@ AddHtmlAttributeValue(" ", 915, ManageNavPages.TwoFactorAuthenticationNavClass(V
             BeginAddHtmlAttributeValues(__tagHelperExecutionContext, "class", 2, global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
             AddHtmlAttributeValue("", 1102, "nav-link", 1102, 8, true);
 #nullable restore
-#line 14 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml"
+#line (14,44)-(14,94) 33 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml"
 AddHtmlAttributeValue(" ", 1110, ManageNavPages.PersonalDataNavClass(ViewContext), 1111, 49, false);
 
 #line default

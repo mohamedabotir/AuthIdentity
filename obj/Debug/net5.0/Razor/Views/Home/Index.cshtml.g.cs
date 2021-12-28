@@ -58,24 +58,24 @@ using AuthIdentity.Data.Models;
 #nullable disable
             WriteLiteral("    <div class=\"post\">\r\n    <p class=\"publisher\">");
 #nullable restore
-#line 12 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Views\Home\Index.cshtml"
-                    Write(data.User.UserName);
+#line (12,27)-(12,45) 6 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Views\Home\Index.cshtml"
+Write(data.User.UserName);
 
 #line default
 #line hidden
 #nullable disable
             WriteLiteral(" <span style=\"font-size:10px;display:block\">publish Date ");
 #nullable restore
-#line 12 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Views\Home\Index.cshtml"
-                                                                                                Write(data.PublishTime);
+#line (12,103)-(12,119) 6 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Views\Home\Index.cshtml"
+Write(data.PublishTime);
 
 #line default
 #line hidden
 #nullable disable
             WriteLiteral("</span></p>    \r\n    <p class=\"content\" style=\"font-weight:bold\">");
 #nullable restore
-#line 13 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Views\Home\Index.cshtml"
-                                           Write(data.Content);
+#line (13,50)-(13,62) 6 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Views\Home\Index.cshtml"
+Write(data.Content);
 
 #line default
 #line hidden

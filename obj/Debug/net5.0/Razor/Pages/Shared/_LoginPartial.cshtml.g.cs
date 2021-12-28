@@ -85,8 +85,8 @@ using Microsoft.AspNetCore.Identity;
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f8c56d3ad89013d54e17080e6666993e699a7697154", async() => {
                 WriteLiteral("Hello ");
 #nullable restore
-#line 9 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Pages\Shared\_LoginPartial.cshtml"
-                                                                                                            Write(User.Identity.Name);
+#line (9,115)-(9,133) 6 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Pages\Shared\_LoginPartial.cshtml"
+Write(User.Identity.Name);
 
 #line default
 #line hidden
@@ -110,7 +110,7 @@ using Microsoft.AspNetCore.Identity;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n    </li>\r\n    <li class=\"nav-item\">\r\n        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f8c56d3ad89013d54e17080e6666993e699a7699130", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f8c56d3ad89013d54e17080e6666993e699a7699038", async() => {
                 WriteLiteral("\r\n            <button  type=\"submit\" class=\"nav-link btn btn-link text-dark\">Logout</button>\r\n        ");
             }
             );
@@ -129,8 +129,8 @@ using Microsoft.AspNetCore.Identity;
             }
             BeginWriteTagHelperAttribute();
 #nullable restore
-#line 12 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Pages\Shared\_LoginPartial.cshtml"
-                                                                                          WriteLiteral(Url.Page("/", new { area = "" }));
+#line (12,104)-(12,136) 13 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Pages\Shared\_LoginPartial.cshtml"
+WriteLiteral(Url.Page("/", new { area = "" }));
 
 #line default
 #line hidden
@@ -158,7 +158,7 @@ else
 #line hidden
 #nullable disable
             WriteLiteral("    <li class=\"nav-item\">\r\n        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f8c56d3ad89013d54e17080e6666993e699a76912638", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f8c56d3ad89013d54e17080e6666993e699a76912474", async() => {
                 WriteLiteral("Register");
             }
             );
@@ -177,7 +177,7 @@ else
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n    </li>\r\n    <li class=\"nav-item\">\r\n        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f8c56d3ad89013d54e17080e6666993e699a76914129", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8f8c56d3ad89013d54e17080e6666993e699a76913965", async() => {
                 WriteLiteral("Login");
             }
             );

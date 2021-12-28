@@ -50,7 +50,7 @@ using AuthIdentity.Data;
 #nullable disable
             WriteLiteral("<h1>");
 #nullable restore
-#line 6 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Pages\Privacy.cshtml"
+#line (6,6)-(6,23) 6 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Pages\Privacy.cshtml"
 Write(ViewData["Title"]);
 
 #line default

@@ -87,14 +87,14 @@ using AuthIdentity.Areas.Identity.Pages.Account;
 #nullable disable
             WriteLiteral("\r\n<h1>");
 #nullable restore
-#line 7 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml"
+#line (7,6)-(7,23) 6 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml"
 Write(ViewData["Title"]);
 
 #line default
 #line hidden
 #nullable disable
             WriteLiteral("</h1>\r\n<p>\r\n    Your password has been reset. Please ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9fa2ad01473fa832304d2166b6c6d5536eb627255551", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9fa2ad01473fa832304d2166b6c6d5536eb627255564", async() => {
                 WriteLiteral("click here to log in");
             }
             );

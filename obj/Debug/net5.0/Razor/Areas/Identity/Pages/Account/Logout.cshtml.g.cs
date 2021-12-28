@@ -91,8 +91,8 @@ using AuthIdentity.Areas.Identity.Pages.Account;
 #nullable disable
             WriteLiteral("\r\n<header>\r\n    <h1>");
 #nullable restore
-#line 8 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Logout.cshtml"
-   Write(ViewData["Title"]);
+#line (8,10)-(8,27) 6 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Logout.cshtml"
+Write(ViewData["Title"]);
 
 #line default
 #line hidden
@@ -108,7 +108,7 @@ using AuthIdentity.Areas.Identity.Pages.Account;
 #line hidden
 #nullable disable
             WriteLiteral("            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9bda081e18dd8c851ef4e2a28b1434286f35f5666822", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9bda081e18dd8c851ef4e2a28b1434286f35f5666833", async() => {
                 WriteLiteral("\r\n                <button type=\"submit\" class=\"nav-link btn btn-link text-dark\">Click here to Logout</button>\r\n            ");
             }
             );
@@ -127,8 +127,8 @@ using AuthIdentity.Areas.Identity.Pages.Account;
             }
             BeginWriteTagHelperAttribute();
 #nullable restore
-#line 12 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Logout.cshtml"
-                                                                                              WriteLiteral(Url.Page("/", new { area = "" }));
+#line (12,108)-(12,140) 13 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Logout.cshtml"
+WriteLiteral(Url.Page("/", new { area = "" }));
 
 #line default
 #line hidden

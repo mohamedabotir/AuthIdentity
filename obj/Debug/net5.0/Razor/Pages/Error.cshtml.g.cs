@@ -59,8 +59,8 @@ using AuthIdentity.Data;
 #nullable disable
             WriteLiteral("    <p>\r\n        <strong>Request ID:</strong> <code>");
 #nullable restore
-#line 13 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Pages\Error.cshtml"
-                                      Write(Model.RequestId);
+#line (13,45)-(13,60) 6 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Pages\Error.cshtml"
+Write(Model.RequestId);
 
 #line default
 #line hidden

@@ -106,7 +106,7 @@ using AuthIdentity.Areas.Identity.Pages.Account.Manage;
 #nullable disable
             WriteLiteral("\r\n<h4>");
 #nullable restore
-#line 8 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml"
+#line (8,6)-(8,23) 6 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml"
 Write(ViewData["Title"]);
 
 #line default
@@ -121,7 +121,7 @@ Write(ViewData["Title"]);
             <strong>Deleting this data will permanently remove your account, and this cannot be recovered.</strong>
         </p>
         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "65755186d74c449a5d1168061a19ca135d7c80249095", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "65755186d74c449a5d1168061a19ca135d7c80249108", async() => {
                 WriteLiteral("\r\n            <button class=\"btn btn-primary\" type=\"submit\">Download</button>\r\n        ");
             }
             );
@@ -143,7 +143,7 @@ Write(ViewData["Title"]);
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n        <p>\r\n            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "65755186d74c449a5d1168061a19ca135d7c802411008", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "65755186d74c449a5d1168061a19ca135d7c802411021", async() => {
                 WriteLiteral("Delete");
             }
             );
@@ -163,7 +163,7 @@ Write(ViewData["Title"]);
             WriteLiteral("\r\n        </p>\r\n    </div>\r\n</div>\r\n\r\n");
             DefineSection("Scripts", async() => {
                 WriteLiteral("\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "65755186d74c449a5d1168061a19ca135d7c802412470", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "65755186d74c449a5d1168061a19ca135d7c802412483", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper>();

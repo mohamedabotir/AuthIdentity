@@ -65,7 +65,7 @@ using AuthIdentity.Areas.Identity.Pages.Account;
 #nullable disable
             WriteLiteral("\r\n<h1>");
 #nullable restore
-#line 7 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml"
+#line (7,6)-(7,23) 6 "C:\Users\moham\OneDrive\Desktop\authenticationAndAuthorizationCore\AuthIdentity\AuthIdentity\AuthIdentity\AuthIdentity\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml"
 Write(ViewData["Title"]);
 
 #line default
