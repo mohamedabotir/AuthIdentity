@@ -11,6 +11,7 @@ COPY ["/AuthIdentity.csproj", "AuthIdentity/"]
 RUN dotnet restore "AuthIdentity/AuthIdentity.csproj"
 COPY . .
 WORKDIR "/src/AuthIdentity"
+COPY . .
 RUN dotnet build "AuthIdentity.csproj" -c Release -o /app/build
 
 FROM build AS publish
