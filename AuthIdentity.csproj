@@ -1,10 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net5</TargetFramework>
     <UserSecretsId>aspnet-AuthIdentity-5ECB5827-895B-4841-A117-2DFD99E2D200</UserSecretsId>
-    <CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>
-    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+     
     <StartupObject>AuthIdentity.Program</StartupObject>
     <LangVersion>latest</LangVersion>
     
